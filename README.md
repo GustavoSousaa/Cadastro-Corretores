@@ -33,7 +33,7 @@ A validação é feita em duas camadas:
 ⚙️ Como Executar
 Clone o repositório:
 
-git clone https://github.com/seuusuario/cadastro-corretores.git
+git clone https://github.com/GustavoSousaa/cadastro-corretores.git
 
 Configure o banco de dados MySQL com a tabela acima.
 
